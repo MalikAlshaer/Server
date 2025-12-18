@@ -1,3 +1,5 @@
+(This is a modified version of the final project in the rust book)
+
 Basic server with threadpool
 
 To host locally  on your internet connection, follow instructions in the main function in src/main.rs.
